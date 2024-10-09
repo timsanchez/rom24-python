@@ -10,3 +10,4 @@ data/players/
 data/world/instances/
 instance_tracker.txt
 *.egg-info/
+rom24-python.code-workspace
